@@ -1,3 +1,3 @@
 # FriendFinder
 
-homework
+home
