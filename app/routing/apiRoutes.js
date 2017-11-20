@@ -12,7 +12,6 @@ module.exports = function(app) {
 
 		friendsData.push(req.body);
 		res.json(true);
-		console.log("req.body: " + req.body);
-		console.log("res.json: " + res)
+		
 	});
 }
